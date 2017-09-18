@@ -1,2 +1,6 @@
 # hello-world
 First GitHUB repository
+
+Hi Stranger,
+
+You've entered Ed's repo. Ed is an application security professional who is dedicated to creating secure software in its DLC.
